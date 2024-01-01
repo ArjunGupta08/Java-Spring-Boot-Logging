@@ -1,0 +1,4 @@
+# Using Slf4j for Log
+#logging:
+#  level:
+#    com.ag.springBootLogging.controller: DEBUG

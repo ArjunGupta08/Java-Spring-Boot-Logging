@@ -1,0 +1,66 @@
+00:22:20.744 [main] INFO  c.a.s.SpringBootLoggingApplication - Starting SpringBootLoggingApplication using Java 17.0.7 with PID 35220 (C:\Users\arjun\02 Sping Projects\springBootLogging\build\classes\java\main started by arjun in C:\Users\arjun\02 Sping Projects\springBootLogging)
+00:22:20.757 [main] INFO  c.a.s.SpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+00:22:22.415 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+00:22:22.432 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+00:22:22.438 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+00:22:22.439 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.17]
+00:22:22.588 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+00:22:22.591 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1717 ms
+00:22:23.083 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+00:22:23.118 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+00:22:23.129 [main] INFO  c.a.s.SpringBootLoggingApplication - Started SpringBootLoggingApplication in 2.916 seconds (process running for 3.647)
+00:22:38.579 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+00:22:38.579 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+00:22:38.580 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+00:22:38.631 [http-nio-8080-exec-1] INFO  c.a.s.controller.Employee - Logger enabled
+00:23:34.329 [http-nio-8080-exec-2] INFO  c.a.s.controller.Employee - Logger enabled
+00:23:34.503 [http-nio-8080-exec-3] INFO  c.a.s.controller.Employee - Logger enabled
+00:23:34.753 [http-nio-8080-exec-5] INFO  c.a.s.controller.Employee - Logger enabled
+00:23:34.900 [http-nio-8080-exec-6] INFO  c.a.s.controller.Employee - Logger enabled
+00:23:35.098 [http-nio-8080-exec-8] INFO  c.a.s.controller.Employee - Logger enabled
+00:23:35.271 [http-nio-8080-exec-4] INFO  c.a.s.controller.Employee - Logger enabled
+00:23:35.433 [http-nio-8080-exec-7] INFO  c.a.s.controller.Employee - Logger enabled
+00:23:35.646 [http-nio-8080-exec-9] INFO  c.a.s.controller.Employee - Logger enabled
+00:26:49.461 [http-nio-8080-exec-2] INFO  c.a.s.controller.Employee - Logger enabled
+00:26:50.015 [http-nio-8080-exec-3] INFO  c.a.s.controller.Employee - Logger enabled
+00:26:50.159 [http-nio-8080-exec-5] INFO  c.a.s.controller.Employee - Logger enabled
+00:26:50.337 [http-nio-8080-exec-6] INFO  c.a.s.controller.Employee - Logger enabled
+00:26:50.460 [http-nio-8080-exec-8] INFO  c.a.s.controller.Employee - Logger enabled
+00:26:50.675 [http-nio-8080-exec-4] INFO  c.a.s.controller.Employee - Logger enabled
+00:27:16.991 [main] INFO  c.a.s.SpringBootLoggingApplication - Starting SpringBootLoggingApplication using Java 17.0.7 with PID 31640 (C:\Users\arjun\02 Sping Projects\springBootLogging\build\classes\java\main started by arjun in C:\Users\arjun\02 Sping Projects\springBootLogging)
+00:27:17.007 [main] INFO  c.a.s.SpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+00:27:18.663 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+00:27:18.678 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+00:27:18.683 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+00:27:18.683 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.17]
+00:27:18.815 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+00:27:18.819 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1713 ms
+00:27:19.385 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+00:27:19.432 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+00:27:19.444 [main] INFO  c.a.s.SpringBootLoggingApplication - Started SpringBootLoggingApplication in 3.043 seconds (process running for 3.842)
+00:27:24.312 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+00:27:24.313 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+00:27:24.315 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+00:27:24.365 [http-nio-8080-exec-1] INFO  c.a.s.controller.Employee - Logger enabled
+00:27:44.802 [http-nio-8080-exec-2] INFO  c.a.s.controller.Employee - Logger enabled
+00:32:23.461 [main] INFO  c.a.s.SpringBootLoggingApplication - Starting SpringBootLoggingApplication using Java 17.0.7 with PID 39824 (C:\Users\arjun\02 Sping Projects\springBootLogging\build\classes\java\main started by arjun in C:\Users\arjun\02 Sping Projects\springBootLogging)
+00:32:23.463 [main] DEBUG c.a.s.SpringBootLoggingApplication - Running with Spring Boot v3.2.1, Spring v6.1.2
+00:32:23.466 [main] INFO  c.a.s.SpringBootLoggingApplication - No active profile set, falling back to 1 default profile: "default"
+00:32:25.032 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+00:32:25.046 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+00:32:25.050 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+00:32:25.050 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.17]
+00:32:25.138 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+00:32:25.141 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1583 ms
+00:32:25.636 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+00:32:25.673 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+00:32:25.690 [main] INFO  c.a.s.SpringBootLoggingApplication - Started SpringBootLoggingApplication in 2.799 seconds (process running for 3.506)
+00:32:31.450 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+00:32:31.450 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+00:32:31.452 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+00:32:31.506 [http-nio-8080-exec-1] INFO  c.a.s.controller.Employee - Logger enabled
+00:32:31.507 [http-nio-8080-exec-1] DEBUG c.a.s.controller.Employee - Debug enabled
+00:32:43.769 [http-nio-8080-exec-2] INFO  c.a.s.controller.Employee - Logger enabled
+00:32:43.770 [http-nio-8080-exec-2] DEBUG c.a.s.controller.Employee - Debug enabled
+00:32:44.157 [http-nio-8080-exec-3] INFO  c.a.s.controller.Employee - Logger enabled
+00:32:44.158 [http-nio-8080-exec-3] DEBUG c.a.s.controller.Employee - Debug enabled
